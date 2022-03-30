@@ -1,8 +1,8 @@
 ### Hi there 👋
--Hi 👋
--I am Sagma Prajapati 👩‍🎓
--I am interested in data science and business intelligence.
--I am currently learning business finance and data science.
+- Hi 👋
+- I am Sagma Prajapati 👩‍🎓
+- I am interested in data science and business intelligence.
+- I am currently learning business finance and data science.
 
 <!--
 **psagma/psagma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
